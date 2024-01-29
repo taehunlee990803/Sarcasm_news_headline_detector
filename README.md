@@ -17,3 +17,12 @@ To test a new headline, use the following function:
 ```python
 headline = "Your Headline Here"
 print(is_sarcastic(headline))
+```
+
+License
+This project is distributed under the MIT License.
+
+Contact
+Your Name - taehunl@umich.edu
+
+Project Link: https://github.com/your_username/sarcasm-news-headline-detector
