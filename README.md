@@ -19,10 +19,10 @@ headline = "Your Headline Here"
 print(is_sarcastic(headline))
 ```
 
-License
+## License
 This project is distributed under the MIT License.
 
-Contact
-Your Name - taehunl@umich.edu
+## Contact
+Brian Taehun Lee - taehunl@umich.edu
 
 Project Link: https://github.com/your_username/sarcasm-news-headline-detector
