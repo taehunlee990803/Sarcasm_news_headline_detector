@@ -6,6 +6,7 @@ The 'Sarcasm News Headline Detector' is a machine learning model designed to det
 ## Installation
 To install the necessary libraries for this project, run the following command:
 
+```python
 pip install numpy pandas tensorflow nltk sklearn
 
 
