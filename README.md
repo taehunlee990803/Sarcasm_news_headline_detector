@@ -1,7 +1,10 @@
 # Sarcasm_news_headline_detector
 
-Sarcasm News Headline Detector
-Project Overview
-The 'Sarcasm News Headline Detector' is a machine learning model designed to detect sarcastic tones in news headlines. This project is built using Python, TensorFlow, and NLTK, and includes text feature extraction with TF-IDF and a classification model using neural networks.
+Overview:
 
-Installation
+The Sarcasm News Headline Detector is a machine learning model built in Python using TensorFlow and NLTK to identify sarcastic tones in news headlines. It utilizes TF-IDF for text feature extraction and leverages a neural network for classification.
+
+Installation:
+
+Install the required libraries with:
+
