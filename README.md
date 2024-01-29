@@ -8,7 +8,7 @@ To install the necessary libraries for this project, run the following command:
 
 ```python
 pip install numpy pandas tensorflow nltk sklearn
-
+```
 
 ## How to Use
 To use this project, first run the Python script and upload the `Sarcasm_Headlines_Dataset.json` file. Then, you can train the model and predict sarcasm in new headlines.
