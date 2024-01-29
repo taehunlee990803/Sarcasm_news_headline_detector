@@ -25,4 +25,4 @@ This project is distributed under the MIT License.
 ## Contact
 Brian Taehun Lee - taehunl@umich.edu
 
-Project Link: https://github.com/your_username/sarcasm-news-headline-detector
+Project Link: https://github.com/taehunlee990803/sarcasm-news-headline-detector
